@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KP_lab1", "KP_lab1.csproj", "{9DEDEC3B-AE73-4A93-84C0-C63788A41059}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PointLib", "..\PointLib\PointLib.vbproj", "{8CC232EB-1686-43C9-823C-44E0F2573ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DEDEC3B-AE73-4A93-84C0-C63788A41059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEDEC3B-AE73-4A93-84C0-C63788A41059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEDEC3B-AE73-4A93-84C0-C63788A41059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEDEC3B-AE73-4A93-84C0-C63788A41059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC232EB-1686-43C9-823C-44E0F2573ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC232EB-1686-43C9-823C-44E0F2573ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC232EB-1686-43C9-823C-44E0F2573ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC232EB-1686-43C9-823C-44E0F2573ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EFBE4B-5E30-4C83-8F23-9072400AB1BC}
+	EndGlobalSection
+EndGlobal
